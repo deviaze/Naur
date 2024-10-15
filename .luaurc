@@ -1,0 +1,8 @@
+{
+    "languageMode": "strict",
+    "aliases": {
+        "src": "./src/",
+        "Components": "./src/Components/",
+        "Classes": "./src/Classes/"
+    }
+}
